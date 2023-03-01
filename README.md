@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **hpradhan020@gmail.com**
+- 📫 How to reach me **pradhan.harshit06@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TcrjZIoZymW2UqNrYhtfWa2xB2rRTSwN/view?usp=sharing](https://drive.google.com/file/d/1TcrjZIoZymW2UqNrYhtfWa2xB2rRTSwN/view?usp=sharing)
 
