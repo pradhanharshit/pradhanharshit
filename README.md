@@ -6,8 +6,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **JavaScript, Data Structures
-- & Algorithms**
+- 💬 Ask me about **JavaScript** **,DSA**
 
 - 📫 How to reach me **pradhan.harshit06@gmail.com**
 
