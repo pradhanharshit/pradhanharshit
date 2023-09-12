@@ -1,8 +1,6 @@
-
-// <img align="right" alt="coding" width="400" src="https://yashints.dev/static/b87971fa3d35839c9b909d9dffc76dc9/2a4de/frontend.png">
+<img align="right" alt="coding" width="400" src="https://yashints.dev/static/b87971fa3d35839c9b909d9dffc76dc9/2a4de/frontend.png">
 <h1 align="center">Hi 👋, I'm Harshit Pradhan</h1>
 <h3 align="center">An aspiring Software Developer.</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 - 🌱 I’m currently learning **Full Stack Development**
 
