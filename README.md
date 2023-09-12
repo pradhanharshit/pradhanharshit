@@ -4,9 +4,9 @@
 <h3 align="center">An aspiring Software Developer.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **JavaScript** **,DSA**
+- 💬 Ask me about **JavaScript,** **DSA**
 
 - 📫 How to reach me **pradhan.harshit06@gmail.com**
 
