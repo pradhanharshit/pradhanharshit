@@ -1,6 +1,6 @@
 <img align="right" alt="coding" width="400" src="https://yashints.dev/static/b87971fa3d35839c9b909d9dffc76dc9/2a4de/frontend.png">
 <h1 align="center">Harshit Pradhan</h1>
-<h3 align="center">An aspiring Software Developer.</h3>
+<h3 align="center">Software Developer.</h3>
 
 - 🌱 I’m currently learning **Full Stack Development**
 
